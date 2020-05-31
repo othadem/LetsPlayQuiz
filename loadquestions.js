@@ -1,0 +1,52 @@
+loadedQuestions1 = [
+  {
+    "question": "Who is the author of book Wings of Fire?",
+    "choice1": "APJ Abdul Kalam",
+    "choice2": "Nehru",
+    "choice3": "Tagore",
+    "choice4": "Sarojini Naidu",
+    "answer": 1
+  },
+  {
+    "question": "Taj Mahal located in which place?",
+    "choice1": "Delhi",
+    "choice2": "Hyderabad",
+    "choice3": "Agra",
+    "choice4": "Mumbai",
+    "answer": 3
+  },
+  {
+    "question": "Who is the captain of cricket team India?",
+    "choice1": "MS Dhoni",
+    "choice2": "Rohit Sharma",
+    "choice3": "Shikhar Dhawan",
+    "choice4": "Virat Kohli",
+    "answer": 4
+  },
+  {
+    "question": "Who is the author of The Story of Experiments with Story?",
+    "choice1": "APJ Abdul Kalam",
+    "choice2": "Mahatma Gandhi",
+    "choice3": "Tagore",
+    "choice4": "Sarojini Naidu",
+    "answer": 2
+  },
+  {
+    "question": "Gateway of India located in which place?",
+    "choice1": "Delhi",
+    "choice2": "Hyderabad",
+    "choice3": "Agra",
+    "choice4": "Mumbai",
+    "answer": 1
+  },
+  {
+    "question": "Who is the captain of Chennai Super Kings?",
+    "choice1": "MS Dhoni",
+    "choice2": "Rohit Sharma",
+    "choice3": "Shikhar Dhawan",
+    "choice4": "Virat Kohli",
+    "answer": 1
+  }
+];
+
+console.log("questions ", loadedQuestions1)

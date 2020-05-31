@@ -1,0 +1,13 @@
+loadedQuestions = 
+[{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?","correct_answer":"Key","incorrect_answers":["Sword","Pen","Cellphone"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What geometric shape is generally used for stop signs?","correct_answer":"Octagon","incorrect_answers":["Hexagon","Circle","Triangle"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Which one of the following rhythm games was made by Harmonix?","correct_answer":"Rock Band","incorrect_answers":["Meat Beat Mania","Guitar Hero Live","Dance Dance Revolution"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?","correct_answer":"Spruce Goose","incorrect_answers":["Noah&#039;s Ark","Fat Man","Trojan Horse"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What do the letters in the GMT time zone stand for?","correct_answer":"Greenwich Mean Time","incorrect_answers":["Global Meridian Time","General Median Time","Glasgow Man Time"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Which American-owned brewery led the country in sales by volume in 2015?","correct_answer":"D. G. Yuengling and Son, Inc","incorrect_answers":["Anheuser Busch","Boston Beer Company","Miller Coors"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What was the first ever London Underground line to be built?","correct_answer":"Metropolitan Line","incorrect_answers":["Circle Line","Bakerloo Line","Victoria Line"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Which sign of the zodiac comes between Virgo and Scorpio?","correct_answer":"Libra","incorrect_answers":["Gemini","Taurus","Capricorn"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Which of the following is the IATA code for Manchester Airport?","correct_answer":"MAN","incorrect_answers":["EGLL","LHR","EGCC"]},
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"When someone is cowardly, they are said to have what color belly?","correct_answer":"Yellow","incorrect_answers":["Green","Red","Blue"]}]
+
+console.log("loadedQuestions ", loadedQuestions.length)
